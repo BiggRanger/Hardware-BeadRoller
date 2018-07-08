@@ -9,15 +9,15 @@ Parts list
 2	5/8 Shaft collar
 1	5/8" x 2" spring (heavy)
 1	5.8" x 2" spring (light)
-6"	5/8" ID steel tube 0.1" wall (for spacers)
+3"	5/8" ID steel tube 0.1" wall (for spacers)
 	make:	2	5/8" ID 0.5" spacers
 	make:	1	5/8" ID 0.1" spacer
 4	5/8" ID machine washers
 5"	2" x 4" x 0.175" wall steel tube
 
 Parts from Tractor Supply Company
-ITEM	DESCRIPTION	SKU	NOTES
-Spring Kit	"Spring AST SM 1"	3534503	(both springs are in this package)
+ITEM		DESCRIPTION			SKU	NOTES
+Spring Kit	"Spring AST SM 1"		3534503	(both springs are in this package)
 Machine Bushing	"5/8X1X18GA MACHINE BUSH"	1040514	(these come in a 2 pack)
 Shaft Collar	"PB SHFT COL 5/8X11/8X1/2"	1045521
-Bearing	"CNL BEARING 6 ROLLER ACE 5/8"	1196105
+Bearing		"CNL BEARING 6 ROLLER ACE 5/8"	1196105
